@@ -1,12 +1,8 @@
 # Movie Review Sentiment Analyzer 
 
-**Version 1.0.0**
-
 This ML model will guess if a given review is positive or negative by using NLP. This model was trained using Tensorflow and was trained on the imdb-dataset of movie reviews.
 
-This project was made for my AI class in University.
-
-To try out the **Sentiment Analyzer** visit this [link](https://bit.ly/3aRb63E).
+To try out the **Sentiment Analyzer** visit this [link](http://localhost:8501/).
 
 ---
 
@@ -30,7 +26,7 @@ To try out the **Sentiment Analyzer** visit this [link](https://bit.ly/3aRb63E).
 
 ## Dataset Used
 
-The dataset used was a set of imdb-reviews which was picked from [Kaggle](https://www.kaggle.com/). The dataset can be viewd from [dataset](https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format).
+The dataset used is a set of imdb-reviews which is picked from [Kaggle](https://www.kaggle.com/). The dataset can be viewd from [dataset](https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format).
 
 The dataset was in CSV format.
 
@@ -64,23 +60,13 @@ The model was based on NLP(Natural Language Processing).
 
 ## Deploying the ML model
 
-The model was delpoyed on the [AWS(Amazon Web Services)](https://aws.amazon.com/).
-
-It was deployed on a **VM** containg: - 
-
-- 1 CPU Core
-
-- 1 GB Ram
-
-- 8GB Storage
-
-The VM is runing on AMAZON AMI Linux.
+The model was delpoyed on the [GCP(Google Cloud Platform)](https://cloud.google.com/).
 
 
 The model webpage was built using the python package [Streamlit](https://www.streamlit.io/).
 
 
-![](ml_model_screenshot.png)
+![](Overview.PNG)
 
 
 
