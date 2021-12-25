@@ -2,7 +2,7 @@
 
 This ML model will guess if a given review is positive or negative by using NLP. This model was trained using Tensorflow and was trained on the imdb-dataset of movie reviews.
 
-To try out the **Sentiment Analyzer** visit this [link](http://localhost:8501/).
+To try out the **Sentiment Analyzer** visit this [link](https://bit.ly/3EsrsNW).
 
 ---
 
